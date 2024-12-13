@@ -1,10 +1,9 @@
 # CITIVERSE
-# Team 38
 
 ## Team Members: 
-Krishiv Gupta
-Atharva Kulkarni
-Sanyam Agrawal
+Krishiv Gupta  
+Atharva Kulkarni  
+Sanyam Agrawal  
 Kushal Mangla
 
 ## About our Project
